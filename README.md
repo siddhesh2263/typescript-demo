@@ -1,1 +1,1 @@
-An introductory Typescript application.
+## An introductory Typescript application.
